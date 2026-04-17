@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Мой Доктор</string>
+    <string name="nav_meds">Лекарства</string>
+    <string name="nav_symptoms">Состояние</string>
+    <string name="nav_headache">Голова</string>
+    <string name="nav_bmi">ИМТ</string>
+    
+    <string name="medication_title">Прием лекарств</string>
+    <string name="med_name_hint">Что принимаем?</string>
+    <string name="med_dosage_hint">Дозировка (напр. 1 таб.)</string>
+    <string name="pick_time">Установить время</string>
+    <string name="add_med">Добавить в график</string>
+    <string name="mark_as_taken">Принято</string>
+    
+    <string name="symptoms_title">Как вы себя чувствуете?</string>
+    <string name="mood_label">Ваше настроение</string>
+    <string name="symptom_hint">Что-то беспокоит?</string>
+    <string name="save">Сохранить запись</string>
+    
+    <string name="headache_title">Контроль боли</string>
+    <string name="intensity_label">Насколько сильно болит? (1-10)</string>
+    <string name="triggers_hint">Возможные причины</string>
+    <string name="duration_hint">Как долго длится?</string>
+    
+    <string name="bmi_title">Индекс массы тела</string>
+    <string name="height_hint">Ваш рост (см)</string>
+    <string name="weight_hint">Ваш вес (кг)</string>
+    <string name="calculate_bmi">Рассчитать результат</string>
+    
+    <string name="notification_title">Время приема!</string>
+    <string name="notification_text">Пора принять %1$s (%2$s)</string>
+    
+    <string name="history_label">История записей</string>
+    <string name="empty_list">Пока записей нет</string>
+</resources>

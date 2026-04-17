@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основная палитра: Современный синий (Material 3) -->
+    <color name="primary_blue">#0056D2</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#D7E2FF</color>
+    <color name="on_primary_container">#001B3E</color>
+
+    <color name="secondary_blue">#565E71</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#DAE2F9</color>
+    <color name="on_secondary_container">#131C2C</color>
+
+    <color name="background_app">#F8F9FF</color>
+    <color name="surface_app">#FDFBFF</color>
+    <color name="surface_variant">#E1E2EC</color>
+    
+    <color name="text_title">#1A1C1E</color>
+    <color name="text_body">#44474E</color>
+    
+    <color name="success_blue">#006495</color>
+    <color name="error_red">#BA1A1A</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
